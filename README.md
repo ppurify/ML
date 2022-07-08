@@ -1,8 +1,8 @@
 # ![image](https://ifh.cc/g/NLHLdw.png) Machine Learning Homework
 
-## TIL
+## [TIL](https://github.com/ppurify/ML/tree/main/TIL)
 
-## Homework
+## [Homework](https://github.com/ppurify/ML/tree/main/Homework)
 - numpy
 - pandas
 - VIZ
