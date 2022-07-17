@@ -2,7 +2,7 @@
 
 ## 📝[TIL](https://github.com/ppurify/ML/tree/main/TIL)
 
-## [Homework](https://github.com/ppurify/ML/tree/main/Homework)
+## 🧠[Homework](https://github.com/ppurify/ML/tree/main/Homework)
 - numpy
 - pandas
 - VIZ
