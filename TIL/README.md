@@ -1,4 +1,4 @@
-#  ![image](https://ifh.cc/g/3oOwbG.png) Today I Learned
+#  ![image](https://ifh.cc/g/tp3C4H.png) Today I Learned
 
 ### ✔ [numpy](https://github.com/ppurify/ML/tree/main/TIL/numpy)
 
