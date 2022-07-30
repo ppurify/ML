@@ -13,3 +13,5 @@
 ### ✔ [Linear Regression](https://github.com/ppurify/ML/tree/main/TIL/LinearRegression)
 
 ### ✔ [Logistic Regression](https://github.com/ppurify/ML/tree/main/TIL/LogisticRegrssion)
+
+### ✔ [Decision Tree](https://github.com/ppurify/ML/blob/main/TIL/DecisionTree/DecisionTree.ipynb) 
