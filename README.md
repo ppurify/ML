@@ -1,4 +1,4 @@
-# ![image](https://ifh.cc/g/NLHLdw.png) Machine Learning Homework
+# Machine Learning Homework
 
 ## 📝 [TIL](https://github.com/ppurify/ML/tree/main/TIL)
 
